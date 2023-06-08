@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "bd2ff3ae1526157a",
+    "type": "split",
+    "children": [
+      {
+        "id": "54a3cbcab3664642",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "694067bfaab37b0c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e44a74e2f39d5a92",
+    "type": "split",
+    "children": [
+      {
+        "id": "f51d575f9913836b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff9b08768d7e6135",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1c61a68110251c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63ccf9e5c8c5ebce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e64864502aade8ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cd463814b039132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6711ae51f9048275",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77c602474c5d9200",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5a15502fbd3b4c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "470eb5355988fb9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ff9b08768d7e6135",
+  "lastOpenFiles": [
+    "ObsidianVaultX",
+    "Untitled.canvas",
+    "AZ-104/General Resources.md",
+    "AZ-104/Topics/[5]Monitor and maintain Azure resources",
+    "AZ-104/Topics/[4]Configure and manage virtual networking",
+    "AZ-104/Topics/[3]Deploy and manage Azure compute resources",
+    "AZ-104/Topics/[2]Implement and manage storage",
+    "AZ-104/Topics/Manage Azure identities and governance.md",
+    "AZ-104/Topics/[1]Manage Azure identities and governance",
+    "Untitled",
+    "AZ-104/Topics",
+    "AZ-104/Untitled.md",
+    "AZ-104",
+    "FOS_Mathe/Themen.md",
+    "Untitled/Untitled.md",
+    "FOS_Mathe/Analysis/Quadratische Funktionen/Themen.md",
+    "FOS_Mathe/Analysis/Ableitungen und Integrale/Themen.md",
+    "FOS_Mathe/Analysis/Kurvendiskussion/Themen.md",
+    "FOS_Mathe/Analysis/Kurvendiskussion",
+    "FOS_Mathe/Analysis/Ableitungen und Integrale/Untitled.md",
+    "FOS_Mathe/Analysis/Untitled.md",
+    "FOS_Mathe/Analysis/Ableitungen und Integrale",
+    "FOS_Mathe/Analysis/Quadratische Funktionen/Scheitelpunkform.md",
+    "SSL-Certificate/SSL basic info.md",
+    "SSL-Certificate/Certificate authority.md",
+    "temp.md",
+    "FOS_Mathe/Analysis/Lineare Funktionen/Themen.md",
+    "FOS_Mathe/Analysis/Lineare Funktionen/Funktion aus zwei Punkten.md",
+    "FOS_Mathe/Analysis/Lineare Funktionen/Parallele Funktionen.md",
+    "SSL-Certificate/SCEPman.md"
+  ]
+}
