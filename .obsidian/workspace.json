@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "54a3cbcab3664642",
+        "id": "c778384766a727cd",
         "type": "tabs",
         "children": [
           {
-            "id": "694067bfaab37b0c",
+            "id": "12524b68b6137406",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "AZ-104/test.md",
-                "staged": false
+                "file": "AZ-104/Topics/[1]Manage Azure identities and governance/Procedure to learn.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AZ-104/Topics/[1]Manage Azure identities and governance/Procedure to learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AZ-104/Topics/[1]Manage Azure identities and governance/Procedure to learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AZ-104/Topics/[1]Manage Azure identities and governance/Procedure to learn.md"
+              }
             }
           },
           {
@@ -149,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "694067bfaab37b0c",
+  "active": "12524b68b6137406",
   "lastOpenFiles": [
+    "AZ-104/General Resources.md",
+    "AZ-104/Topics/[1]Manage Azure identities and governance/Procedure to learn.md",
     "AZ-104/test.md",
     "ObsidianVaultX",
     "Untitled.canvas",
-    "AZ-104/General Resources.md",
     "AZ-104/Topics/[5]Monitor and maintain Azure resources",
     "AZ-104/Topics/[4]Configure and manage virtual networking",
     "AZ-104/Topics/[3]Deploy and manage Azure compute resources",
