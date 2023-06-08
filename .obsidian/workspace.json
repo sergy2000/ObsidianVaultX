@@ -11,8 +11,11 @@
             "id": "694067bfaab37b0c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "AZ-104/test.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -120,13 +123,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "1fbfe7a01eb54b19",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +149,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff9b08768d7e6135",
+  "active": "694067bfaab37b0c",
   "lastOpenFiles": [
+    "AZ-104/test.md",
     "ObsidianVaultX",
     "Untitled.canvas",
     "AZ-104/General Resources.md",
@@ -151,7 +163,6 @@
     "AZ-104/Topics/[1]Manage Azure identities and governance",
     "Untitled",
     "AZ-104/Topics",
-    "AZ-104/Untitled.md",
     "AZ-104",
     "FOS_Mathe/Themen.md",
     "Untitled/Untitled.md",
@@ -161,7 +172,6 @@
     "FOS_Mathe/Analysis/Kurvendiskussion",
     "FOS_Mathe/Analysis/Ableitungen und Integrale/Untitled.md",
     "FOS_Mathe/Analysis/Untitled.md",
-    "FOS_Mathe/Analysis/Ableitungen und Integrale",
     "FOS_Mathe/Analysis/Quadratische Funktionen/Scheitelpunkform.md",
     "SSL-Certificate/SSL basic info.md",
     "SSL-Certificate/Certificate authority.md",
