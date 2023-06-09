@@ -42,3 +42,5 @@
 - Microsoft Learn: Use the learning path "Manage identities and governance in Azure" to study this.
 - Microsoft Documentation: Review the self-service password reset documentation.
 - Hands-On Practice: Try configuring self-service password reset for your Azure AD.
+
+## [Course](https://learn.microsoft.com/en-us/training/paths/az-104-manage-identities-governance/)
